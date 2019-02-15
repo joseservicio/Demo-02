@@ -2,3 +2,6 @@ batman
 superman
 thor
 robin
+jose 
+cruz 
+garcia
